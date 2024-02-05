@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "883543195415",
+    "project_id": "dildosti-a2865",
+    "storage_bucket": "dildosti-a2865.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883543195415:android:24c86df62cdf9de3930152",
+        "android_client_info": {
+          "package_name": "com.example.product_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGOGgJeJdKobzYPUVZaZM60_-YV__litM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
